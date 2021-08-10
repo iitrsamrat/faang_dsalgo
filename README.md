@@ -1,2 +1,6 @@
 # faang_dsalgo
-1. Is perfect Square Problem (Easy)
+
+# feel free to report bugs & issues
+
+1. Bin search
+2. Is perfect Square Problem (Easy)
