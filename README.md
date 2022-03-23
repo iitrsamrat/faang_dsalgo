@@ -6,5 +6,3 @@
 3. Two sum problem
 
 
-# TODO
-. adding leetcode docs in python file
